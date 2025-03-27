@@ -25,6 +25,8 @@ Hello, my name is Daonguyen. I'm studying CS at IUT Robert Schuman in Illkirch (
 [![Unity 3D](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 
 
+## My Personnal Projects
+Soon soon
 <!--
 **daonguyen-tran/daonguyen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
